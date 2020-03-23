@@ -2661,7 +2661,7 @@ select.mobile-device {
     transition: all .7s ease-in-out;
 }
 .dmtop.show {
-    bottom: 20px;
+    bottom: 40px;
 }
 
 .icon_wrap {
